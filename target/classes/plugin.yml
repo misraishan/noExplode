@@ -1,0 +1,7 @@
+name: NoExplode
+version: '1.0'
+main: hayhay.cc.noExplode.NoExplode
+api-version: 1.18
+prefix: NoExplode
+description: A simple plugin to disable Creeper & Ghast explosions, while still damaging the player.
+author: HayHay
